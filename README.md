@@ -10,7 +10,7 @@ Think of this as implementing core Graphics API functions *from scratch*.
 ### Rasterizer:
 
 1. Rasterize Points
-![](./screenshotTask2.png)
+![](./rasterizer/screenshotTask2.png)
 
 ### Raytracer:
 

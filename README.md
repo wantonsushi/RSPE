@@ -13,6 +13,10 @@ Think of this as implementing core Graphics API functions *from scratch*.
 
 ![](./rasterizer/screenshotTask2.png)
 
+2. Perform Point in Triangle Test
+
+![](./rasterizer/screenshotTask3.png)
+
 ### Raytracer:
 
 ![](./screenshot3.png)

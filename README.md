@@ -70,3 +70,28 @@ _____________
 1. Verlet Integration and Gravity
 
 ![](./physics/task1.gif)
+
+2. Simple Collion
+
+![](./physics/task2.gif)
+
+3. Contraints on a Spherical Surface
+
+![](./physics/task3.gif)
+
+4. Gravitational Fields
+
+![](./physics/task4.gif)
+
+5. Spherical Particles
+
+![](./physics/task5.gif)
+
+6. Barnes-Hut Optimization
+
+![](./physics/extra1_barnes-hut.gif)
+
+7. Custom Collision BVH Optimization
+
+![](./physics/extra1_BVH-collisions.gif)
+

@@ -46,6 +46,24 @@ _____________
 
 ![](./raytracer/screenshotTask3.png)
 
+4. Specular Refraction
+
+![](./raytracer/screenshotTask4.png)
+
+5. Environment Mapping
+
+![](./raytracer/screenshotTask5.png)
+
+6. Surface Area Hueristic and Mailboxing Optimizations
+
+![](./raytracer/screenshotExtra1_1.png)
+![](./raytracer/screenshotExtra1_2.png)
+
+7. Image Based Lighting
+
+![](./raytracer/screenshotExtra2_noIBL.png)
+![](./raytracer/screenshotExtra2_IBL.png)
+
 _____________
 ## Physics Engine:
 

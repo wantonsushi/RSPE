@@ -7,6 +7,7 @@ Think of this as implementing core Graphics API functions *from scratch*.
 
 #### Please email e5hughes@uwaterloo.ca to see source code
 
+_____________
 ### Rasterizer:
 
 1. Rasterize Points
@@ -30,10 +31,14 @@ Think of this as implementing core Graphics API functions *from scratch*.
 ![](./rasterizer/screenshotExtra1.png)
 ![](./rasterizer/screenshotExtra2.png)
 
+_____________
 ### Raytracer:
 
-![](./screenshot3.png)
+1. Perform Ray-Triangle intersection test
 
+![](./raytracer/screenshotTask1.png)
+
+_____________
 ### Physics Engine:
 
 ![](./screenshot3.png)

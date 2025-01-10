@@ -13,9 +13,22 @@ Think of this as implementing core Graphics API functions *from scratch*.
 
 ![](./rasterizer/screenshotTask2.png)
 
-2. Perform Point in Triangle Test
+2. Perform Point-in-Triangle Test
 
 ![](./rasterizer/screenshotTask3.png)
+
+3. Implement Z-Buffer
+
+![](./rasterizer/screenshotTask4.png)
+
+4. Implement textures with perspective correct interpolation
+
+![](./rasterizer/screenshotTask5.png)
+
+5. Implement near-plane clipping
+
+![](./rasterizer/screenshotExtra1.png)
+![](./rasterizer/screenshotExtra2.png)
 
 ### Raytracer:
 
